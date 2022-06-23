@@ -35,6 +35,34 @@
         {
             "name": "freedemote",
             "description": "C’est le fait de rétrograder une personne d’un métier spécifique sans aucune raison roleplay."
+        },
+        {
+            "name": "propsblock",
+            "description": "Cela consiste à utiliser un ou plusieurs props afin de bloquer un accès sans possibilité pour les autres joueurs d’interagir sur le ou les props en question (au moyen d’un keypad par exemple). Tous les props bloquant une porte doivent obligatoirement comporter un “fading door”."
+        },
+        {
+            "name": "propsclimbspam",
+            "description": "Cela consiste à utiliser un ou plusieurs props et/ou entité dans le but d’accéder à un endroit inaccessible.\nPar exemple :\n- Monter sur les toits sans un grappin, interdit.\n- S’enfuire en escaladant les palissades de son jardin avec des props, interdit.\nPar contre, il est autorisé de faire la courte échelle et/ou de s’aider d’un véhicule pour franchir un obstacle.\n\nC’est le fait de faire apparaître des props inutiles en quantité importante."
+        },
+        {
+            "name": "usebutton",
+            "description": "Cela consiste à exploiter abusivement un “fading door” au détriment des joueurs adverses. Cela apporte un avantage pour la personne se trouvant du bon côté du “fading door”.\n__Exemple__ : Ouvrir une porte avec un bouton, tirer une balle, refermer la porte, ré-ouvrir la porte, re-tirer une balle, etc.."
+        },
+        {
+            "name": "meurtrieres",
+            "description": "On appelle “meurtrière” une fenêtre de tir entre deux props offrant un avantage à un joueur aux dépens d’un autre. L’espace entre deux props, ou l’espace entre un props et un mur doit toujours permettre le passage d’un corps (accroupi au minimum)."
+        },
+        {
+            "name": "travers",
+            "description": "Il est interdit de tirer à travers une vitre/props/entité si l’on ne peut pas voir des 2 côtés."
+        },
+        {
+            "name": "usebug",
+            "description": "C’est-à-dire tirer profit d’une faille du jeu.\n __Exemple__ : Mettre une arme dans son inventaire et la récupérer pour la recharger en munitions."
+        },
+        {
+            "name": "global",
+            "description": "Pour vous renseigner sur une règle particulière, faites `/rules (règle)` (cliquez parmi les options présentées). Pour voir les règles dans leur totalité, visitez https://djackvalentain.wixsite.com/regles-elysionrp"
         }
     ]
 }
