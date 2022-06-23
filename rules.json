@@ -63,6 +63,10 @@
         {
             "name": "global",
             "description": "Pour vous renseigner sur une règle particulière, faites `/rules (règle)` (cliquez parmi les options présentées). Pour voir les règles dans leur totalité, visitez https://djackvalentain.wixsite.com/regles-elysionrp"
+        },
+        {
+            "name": "regle",
+            "description": "Pour vous renseigner sur une règle particulière, faites `/rules (règle)` (cliquez parmi les options présentées). Pour voir les règles dans leur totalité, visitez https://djackvalentain.wixsite.com/regles-elysionrp"
         }
     ]
 }
