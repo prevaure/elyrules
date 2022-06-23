@@ -1,8 +1,40 @@
 {
     "rules": [
         {
-            "title": "freekill",
+            "name": "freekill",
             "description": "C’est un meurtre commis sans aucune raison roleplay."
+        },
+        {
+            "name": "nrfear",
+            "description": "Il s’agit du non-respect de la simulation de la peur. Par conséquent, votre personnage roleplay doit exprimer de la peur lorsqu’une situation stressante se présente (exemple fréquent : si vous êtes menacé directement par une arme (taser compris), vous ne pouvez pas sortir une arme, et vous devez obéir à la personne armée). Exception : Si vous êtes en voiture, à l'arrêt ou à très basse allure, dès que vous êtes braqué par une personne ou plus, vous devez obéir et sortir du véhicule. Par contre, si vous roulez assez vite, vous avez le droit de fuir à bord de votre véhicule (le staff se garde le droit de juger si la scène est RP ou non. Par conséquent, si vous avez un doute, arrêtez-vous. Il serait idiot de se faire sanctionner parce que vous pensiez rouler à vive allure..)"
+        },
+        {
+            "name": "retourzone",
+            "description": "C’est le fait de revenir sur les lieux de sa mort. Sur notre serveur, pour revenir sur les lieux de votre précédente mort, vous devrez attendre 10 minutes et l’action terminée."
+        },
+        {
+            "name": "nlr",
+            "description": "(Non respect de la Règle de Nouvelle Vie) Cette règle consiste à ne pas se souvenir de tout ce qu’il s’est passé avant votre mort. Si vous mourrez, vous devrez donc tout oublier de votre précédente vie et repartir de 0."
+        },
+        {
+            "name": "pain",
+            "description": "Il s’agit du non-respect de la simulation de la douleur. Du coup, si vous prenez des balles, si vous avez un accident de voiture ou si vous recevez un coup de taser, vous devrez réagir comme vous le feriez dans la vraie vie. Donc, on ne saute pas comme un kangourou quand on se fait tirer dans la jambe, on ne ressort pas une arme après avoir été tasé, on ne s’enfuit pas en courant quand on a un accident de la route, etc..."
+        },
+        {
+            "name": "powergame",
+            "description": "Il s’agit d’utiliser un ou des défaut(s) technique(s) du jeu à son avantage."
+        },
+        {
+            "name": "hrp",
+            "description": "Lorsque vous êtes sur le serveur en train de jouer, il vous est interdit de parler de choses “hors roleplay”. Par exemple, les termes comme “admin”, “freekill”, “t’as pas le droit de freekill”, “va lire les règles” ou encore “t’es ban” sont interdits ! Néanmoins, nous sommes conscients que dans certaines situations, il est indispensable d’en faire, dans ce cas là nous vous demanderons d’employer des termes RP. (ex : Au lieu de dire, “il est AFK”, on préfèrera dire “il est dans ses pensées” // Au lieu de dire, “Admin ADMIINN” on préfèrera se taire et faire un ticket silencieusement.)"
+        },
+        {
+            "name": "meta",
+            "description": "Il est interdit d’utiliser des connaissances “hors roleplay” dans un contexte roleplay. Par exemple, le fait d’obtenir des informations via le menu tab ou les icônes de discussions (le métier ou le nom d’un joueur) ne sont pas tolérés. Lorsque vous êtes privé de tous moyens de communication ou lorsque vous êtes menacé par une arme, il est interdit d’utiliser “l’oreillette” (Discord, etc..). Pour rappel, tout ce qui est dit sur ladite “oreillette” doit être entendu en jeu également."
+        },
+        {
+            "name": "freedemote",
+            "description": "C’est le fait de rétrograder une personne d’un métier spécifique sans aucune raison roleplay."
         }
     ]
 }
