@@ -2,7 +2,7 @@
     "rules": [
         {
             "name": "freekill",
-            "description": "C’est un meurtre commis sans aucune raison roleplay."
+            "description": "C’est un meurtre commis sans aucune raison roleplay / sans effectuer de sommations à l'égard de la personne."
         },
         {
             "name": "nrfear",
@@ -66,7 +66,7 @@
         },
         {
             "name": "regle",
-            "description": "Pour vous renseigner sur une règle particulière, faites `/rules (règle)` (cliquez parmi les options présentées). Pour voir les règles dans leur totalité, visitez https://djackvalentain.wixsite.com/regles-elysionrp"
+            "description": "Pour vous renseigner sur une règle particulière, faites `/rules (règle)` (cliquez parmi les options présentées). Pour voir les règles dans leur totalité, visitez https://djackvalentain.wixsite.com/regles-elysionrp pour ElysionRP / https://docs.google.com/document/d/1cqfWsMXg4gVOVOdH4An4yPRy7GxGDk9933jO6f45Yug/edit pour CLife"
         }
     ]
 }
