@@ -1,0 +1,40 @@
+{
+    "answers": [
+        {
+            "type": "candidature",
+            "answer": "__**Présentation IRL :**__\n\n**-** Prénom :\n**-** Age :\n**-** Sexe :\n**-** Localisation :\n**-** Loisirs :\n**-** Etudes :\n\n__**Présentation rôleplay :**__\n\n**-** Votre nom Roleplay :\n**-** Steam ID :\n**-** Pseudo Discord :\n**-** Votre histoire RolePlay : (5 lignes minimum)\n\n__**Informations globales :**__\n\n**-** Votre expérience dans la modération :\n**-** Vos motivations : (5 lignes minimum)\n**-** Temps de jeu sur ElysionRP :\n**-** Pourquoi notre serveur et pas un autre : (5 lignes minimum)\n**-** Vos disponibilités en période scolaire :\n**-** Vos disponibilité en période de vacances :\n**-** Sujet de réflexion : __\" Faire une critique sur Elysion \"__ ou __\"Soulever une notion importante du RolePlay.\"__ : (10 lignes minimum)\n\n__A FAIRE SOUS GOOGLE DOC__\n\n**Cordialement,\nLe Staff**"
+        },
+        {
+            "type": "addons",
+            "answer": "Bonjour, Bonsoir, voici un tuto pour tenter de régler votre problème.\n\n**1 -** Lancez votre jeu, et une fois sur le menu principal de Garry’s Mod cliquez sur \"Addons\".\n\nLe grand encadré blanc vous montre tous les addons que vous avez d'installer sur votre jeu. Vous n'aurez qu'à cliquer sur \"Tout désinstaller\".\n\nEnsuite, entrez dans vos dossiers Garry’s Mod (\"GarrysMod\" puis \"garrysmod\" puis \"addons\") et supprimez tous les fichiers qui sont dans ce dossier.\n\n**2 -** Pour continuer, il faudra désinstaller puis réinstaller Garry’s Mod. (Cette partie n’est pas obligatoire mais est recommandée si vous ne parvenez pas a avoir les addons après avoir testé ce tuto).\n\n**3 -** Ensuite, retéléchargez la collection ainsi que l'addon en deuxième lien : \ncollection : https://steamcommunity.com/sharedfiles/filedetails/?id=663693581\nAddon supplémentaire : https://steamcommunity.com/sharedfiles/filedetails/?id=248302805\n\n\n**4 -** Téléchargez ce fichier méga : https://mega.nz/#!aIYHRYgS!z7ASATWZaxfkiMXzTjgiyEbxvE7ikR9CiVYvOwZqqTM\n\n**5 -** Mettez le fichier téléchargé sur votre bureau (cela peut prendre un certain temps).\n\n**6 -** Puis via un logiciel comme WinRar ou autre, faites clique droit sur le fichier puis \"extraire ici\".\n\n**7 -** Un nouveau fichier va apparaitre sur votre bureau après un plus ou moins long chargement.\n\n**8 -** Ouvrez votre dossier GarrysMod puis \"garrysmod\" et rendez vous dans le fichier \"addons\".\n\n**9 -** Glissez enfin le fichier extrait avec Winrar qui est sur votre bureau dans le fichier \"addons\". Si vous avez déjà ce fichier (css content) supprimez l’ancien pour mettre le nouveau à sa place.\n\n**10 -** Redémarrez votre jeu, patientez que les addons se téléchargent.\n\n**11 -** Rendez-vous dans vos paramètres Garry’s Mod puis dans \"multijoueur\", ensuite, ouvrez le menu déroulant puis appuyez sur \"Allow all custom files\" ou en français \"Autoriser tous les fichiers personnalisés du serveur\".\n\n**11 -** Relancez votre jeu puis jouez ! "
+        },
+        {
+            "type": "remboursement",
+            "answer": "Bonjour, Bonsoir,\n\nVeuillez suivre ce modèle dans ce même channel en prenant le temps de détailler chaque partie pour remplir votre demande de remboursement :\n\n**-** Votre nom RP :\n**-** Votre Steam ID __(obligatoire)__ :\n**-** Que souhaitez-vous vous faire rembourser ? :\n**-** Date et heure du problème :\n**-** Preuves / informations complémentaires __(obligatoire)__ :\n\n*Cordialement,\nLe staff.*"
+        },
+        {
+            "type": "ddb",
+            "answer": "Bonjour, Bonsoir,\n\nVeuillez nous faire un rapport dans ce même channel en suivant ce modèle (si vous avez plusieurs personnes à signaler, faites un rapport par personne) pour remplir votre demande de bannissement :\n\n**-** Votre nom :\n**-** Votre steam id :\n**-** Nom du joueur que vous souhaitez bannir :\n**-** STEAM ID du joueur que vous souhaitez bannir __(obligatoire)__ :\n**-** Raison de la demande de ban :\n**-** Durée proposée :\n**-** Preuve __(obligatoire avec steam id visible dans la preuve)__ :\n\n*Cordialement,\nLe staff.*"
+        },
+        {
+            "type": "ddd",
+            "answer": "Bonjour, Bonsoir,\n\nVeuillez suivre ce modèle dans ce même channel en prenant le temps de détailler chaque partie pour remplir votre demande de dé-bannissement :\n\n**-** Votre nom RP :\n**-** Votre pseudo discord :\n**-** Votre STEAM ID __(obligatoire)__ :\n**-** Nom du staff qui vous a banni (indiqué lorsque vous vous connectez) :\n**-** Raison de votre bannissement (indiqué lorsque vous vous connectez) :\n**-** Temps du bannissement (indiqué lorsque vous vous connectez) :\n**-** Pourquoi avez-vous été banni :\n**-** Pourquoi revenir sur le serveur :\n\n*Cordialement,\nLe staff.*"
+        },
+        {
+            "type": "plainte",
+            "answer": "Bonjour, Bonsoir,\n\nVeuillez suivre ce modèle dans ce même channel en prenant le temps de détailler chaque partie pour remplir votre plainte contre un staff :\n\n**-** Votre nom RP :\n**-** Votre Steam ID __(obligatoire)__ :\n**-** Le nom du staff __(obligatoire)__ :\n**-** Date et heure du problème :\n**-** Problème en question :\n**-** Preuves __(obligatoire)__:\n\n*Cordialement,\nLe Staff.*"
+        },
+        {
+            "type": "error_arme",
+            "answer": "**Bonjour, voici des addons supplémentaire seulement pour ces armes**\n\nAddons supplémentaires\nAddon pour le violon : https://steamcommunity.com/sharedfiles/filedetails/?id=286312847 \nAddon pour le parapluie : https://steamcommunity.com/sharedfiles/filedetails/?id=229683363 \nAddon pour le lance flamme :  https://steamcommunity.com/sharedfiles/filedetails/?l=french&id=705558144 \nAddon pour l'ak beast : https://steamcommunity.com/sharedfiles/filedetails/?id=941003056"
+        },
+        {
+            "type": "candid_accept",
+            "answer": "Bonjour,\n\nJe vous informe que votre candidature est **RETENUE**\n\nJe vous ai invité sur un discord afin de pouvoir continuer les tests d'entrer.\n\nBelle journée"
+        },
+        {
+            "type": "candid_refuse",
+            "answer": "Bonjour,\n\nJe vous informe que votre candidature est **REFUSÉE**\n\nVous pouvez retenter votre chance dans un délai de minimum deux semaines.\n\nBelle journée"
+        }
+    ]
+}
